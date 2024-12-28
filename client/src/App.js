@@ -12,7 +12,7 @@ return (
 <div class="header" >
 <div class="container" >   
    
-    <h3>PARKING MANAGEMENT SYSTEM</h3>
+    <h3>SMART PARKING SYSTEM</h3>
     
 </div>
 </div> 
@@ -28,7 +28,7 @@ return (
     </div>
     
     <div className="col-md-4 col-sm-4" >
-        <h4 class="para">MYPARKING MANAGEMENT SYSTEM</h4>
+        <h4 class="para">SMART PARKING SYSTEM</h4>
         <p class="para" style={{textAlign: 'justify'}}>
             Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
             Ipsum has been the industry's standard dummy text ever since the 1500s, when an 

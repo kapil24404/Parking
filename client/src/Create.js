@@ -46,7 +46,7 @@ const Create= () => {
             <div class="header">
                 <div class="container">   
    
-                    <h3>PARKING MANAGEMENT SYSTEM</h3>
+                    <h3>SMART PARKING SYSTEM</h3>
     
                 </div>
             </div> 

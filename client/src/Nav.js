@@ -115,7 +115,7 @@ const  Nav= ({history}) => {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" noWrap>
-            PARKING MANAGEMENT SYSTEM
+          SMART PARKING SYSTEM
           </Typography>
           <Typography>
           {!getUser() && (
